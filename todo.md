@@ -1,0 +1,4 @@
+- [x] mail server
+- [x] web servers
+- [x] dns server
+- [x] dhcp server
