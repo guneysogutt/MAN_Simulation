@@ -10,6 +10,12 @@ network 22.0.0.0
 network 23.0.0.0
 network 24.0.0.0
 network 25.0.0.0
+network 30.0.0.0
+network 31.0.0.0
+network 32.0.0.0
+network 40.0.0.0
+network 41.0.0.0
+network 42.0.0.0
 network 192.168.0.0
 network 192.168.1.0
 network 192.168.2.0
